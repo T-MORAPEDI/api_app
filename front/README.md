@@ -34,7 +34,7 @@ The Sneakers Reviews Dataset is a pre-collected set of customer reviews for vari
 ## Technology Stack
 - **Backend**: Django Rest Framework is utilized for creating a robust and scalable API.
 - **Frontend**: Django's templating system, combined with modern HTML and CSS, provides a rich user interface.
-- **Database**: The default Django database (SQLite) stores the diamond data but can easily be swapped with more scalable options like PostgreSQL for larger deployments.
+- **Database**: The default Django database (SQLite) stores the reviews data but can easily be swapped with more scalable options like PostgreSQL for larger deployments.
 - **Deployment**: The platform is designed for easy deployment on cloud platforms like AWS.
 
 
