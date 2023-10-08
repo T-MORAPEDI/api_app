@@ -37,6 +37,9 @@ The Sneakers Reviews Dataset is a pre-collected set of customer reviews for vari
 - **Database**: The default Django database (SQLite) stores the reviews data but can easily be swapped with more scalable options like PostgreSQL for larger deployments.
 - **Deployment**: The platform is designed for easy deployment on cloud platforms like AWS.
 
+## APP TESTING
+
+![Demo GIF](API_APP_USAGE.gif)
 
 ## Conclusion
 The online sneaker store review classification tool is a comprehensive platform designed for sneaker lovers. It bridges the gap between traditional gemology and modern data analytics, offering a reliable method to assess the online store reviews and the sneaker reviews to help the company grow and meet customers' needs.
