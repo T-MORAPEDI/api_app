@@ -37,8 +37,6 @@ The Sneakers Reviews Dataset is a pre-collected set of customer reviews for vari
 - **Database**: The default Django database (SQLite) stores the reviews data but can easily be swapped with more scalable options like PostgreSQL for larger deployments.
 - **Deployment**: The platform is designed for easy deployment on cloud platforms like AWS.
 
-## APP TESTING
-
 ![Demo GIF](API_APP_USAGE.gif)
 
 ## Conclusion
